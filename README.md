@@ -1,9 +1,9 @@
-## NY_Medicaid_OASIS
-# New York State Medicaid spending increased 325% from 2016 to 2017  
-## Aiden V. Johnson  
-## 09/26/2018  
+### NY_Medicaid_OASIS
+## New York State Medicaid spending increased 325% from 2016 to 2017  
+### Aiden V. Johnson  
+### 09/26/2018  
 
-[Read this on Medium](https://medium.com/@aiden.dataminer/new-york-state-medicaid-spending-increased-325-from-2016-to-2017-a4f3e4ea4)
+[Read this on Medium](https://medium.com/@aiden.dataminer/new-york-state-medicaid-spending-increased-325-from-2016-to-2017-a4f3e4ea457)
 
 The state of New York maintains a publicly available data set covering the most recent complete three years of medicaid claims data. This falls in line with the Open NY initiative started by Governor Cuomo to provide public access to the digital data associated with state government activities for empowering collaboration and analysis. The three year medicaid dataset is referred to as NYS OASAS Medicaid Trend Recipient Summary Profile and can be found on the Kaggle website and is updated annually. Let’s start with an overview of the dataset.
 
@@ -16,12 +16,12 @@ The state of New York is in the top five for population in the US with about 19.
 
 In addition to the number of recipients increasing tremendously in 2017 the number of Dollars spent in 2017 was 325% increase from the prior year. This is a precipitated by a 5% decrease in Dollars spent from 2015 to 2016. See the table below to easily compare the statewide changes across the last three years in Dollars spent, Claims received, and Recipients.
 
-[year table](https://github.com/AVJdataminer/NY_Medicaid_OASIS/blob/master/IMGS/Screen%20Shot%202018-09-27%20at%202.59.07%20PM.png)
+![year table](https://github.com/AVJdataminer/NY_Medicaid_OASIS/blob/master/IMGS/Screen%20Shot%202018-09-27%20at%202.59.07%20PM.png)
 
 
 The third most compelling finding in this data set is the Dollars spent by Service nearly exclusively increases from 2016 to 2017. Not only are there far more unique recipients in 2017 than 2016, increasing. The statewide spending on Medicaid, there are also increased costs at service level. The only Service out of 21 labeled services provided to decrease in Dollars spent from 2016 to 2017 was DOH OP Psychiatric Services. See the figure below for a Service by service change in Dollars spent normalized by the number of recipients covered per year.  
 
-[bar chart](https://github.com/AVJdataminer/NY_Medicaid_OASIS/blob/master/IMGS/Screen%20Shot%202018-09-27%20at%202.51.37%20PM.png) 
+![bar chart](https://github.com/AVJdataminer/NY_Medicaid_OASIS/blob/master/IMGS/Screen%20Shot%202018-09-27%20at%202.51.37%20PM.png) 
 
 In summary, this analysis prompted many more questions around the drastic changes from 2016 to 2017. Especially in contrast to the similar metrics for Claims, Dollars, and Recipients from 2015 to 2016. Although the format of this data is maintained at a three-year interval having a fourth year would be helpful in this case. Additionally, some consideration has to be given to what would cause a across the board increase in Dollars by Service per Recipient increase.
 
